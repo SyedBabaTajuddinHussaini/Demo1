@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Application Details
 |               |
 | ------------- |
@@ -35,11 +34,3 @@ A Fiori application.
 1. Active NodeJS LTS (Long Term Support) version and associated supported NPM version.  (See https://nodejs.org)
 
 
-=======
-# Demo1
-<<<<<<< HEAD
-# Push from GitHub
->>>>>>> 70c0586edd79a7cc56fc87fa7564987474363b61
-=======
-# Push from GitHub Repo
->>>>>>> 41b2661f086bb3fece680795f44417a41174fd4f
